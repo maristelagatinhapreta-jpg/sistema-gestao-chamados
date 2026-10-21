@@ -1,89 +1,37 @@
-# 🎫 Sistema de Gestão de Chamados
+# 🚀 Sistema de Gestão de Chamados
 
 ## 📖 Sobre o Projeto
 
-O Sistema de Gestão de Chamados é um projeto desenvolvido para demonstrar conhecimentos em Análise de Sistemas, Levantamento de Requisitos, Modelagem de Banco de Dados e Documentação de Software.
+Este projeto foi desenvolvido para demonstrar conhecimentos em Análise de Sistemas, Engenharia de Software, Levantamento de Requisitos e Modelagem de Banco de Dados.
 
-O objetivo é oferecer uma solução para registrar, acompanhar e gerenciar solicitações de suporte técnico de forma organizada e eficiente.
-
----
+O sistema tem como objetivo registrar, organizar e acompanhar chamados de suporte técnico por meio de uma documentação estruturada.
 
 ## 🎯 Objetivos
 
-- Centralizar o registro de chamados.
-- Facilitar o acompanhamento das solicitações.
-- Melhorar a comunicação entre usuários e equipe de suporte.
-- Gerar informações para análise e tomada de decisão.
+- Praticar análise de requisitos
+- Desenvolver documentação técnica
+- Modelar banco de dados
+- Aplicar conceitos de UML
 
----
+## 🚀 Tecnologias Utilizadas
 
-## ⚙️ Funcionalidades
-
-✅ Cadastro de usuários
-
-✅ Login no sistema
-
-✅ Abertura de chamados
-
-✅ Atualização de status
-
-✅ Consulta de histórico
-
-✅ Encerramento de chamados
-
-✅ Relatórios gerenciais
-
----
-
-## 📋 Requisitos Funcionais
-
-- RF01: Cadastrar usuários.
-- RF02: Realizar autenticação.
-- RF03: Abrir chamados.
-- RF04: Atualizar chamados.
-- RF05: Consultar chamados.
-- RF06: Encerrar chamados.
-
----
-
-## 🔒 Requisitos Não Funcionais
-
-- Sistema responsivo.
-- Segurança de acesso.
-- Banco de dados relacional.
-- Interface intuitiva.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- Java
 - SQL
-- MySQL
+- UML
+- Engenharia de Software
 - Git
 - GitHub
-- UML
 
----
+## ✅ Funcionalidades
 
-## 📊 Documentação
+- Documentação de requisitos
+- Casos de uso
+- Banco de dados
+- Modelagem do sistema
 
-Este projeto contém documentação de requisitos, casos de uso, fluxos de processo e modelagem de banco de dados.
+## 📁 Estrutura do Projeto
 
----
-
-## 👩‍💻 Autora
-
-**Maristela Aparecida Costa**
-
-Bacharel em Sistemas de Informação
-
-MBA em Cibersegurança e Proteção de Dados (em andamento)
-
-MBA em Business Intelligence, Big Data e Analytics (em andamento)
-
----
-
-## 🚀 Status do Projeto
-
-📌 Em desenvolvimento para fins de estudo e portfólio profissional.S
+```text
+README.md
+requisitos.md
+casos-de-uso.md
+banco.sql
